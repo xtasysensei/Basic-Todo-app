@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	font-family: cursive;
+}
+
+html {
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 2rem;
+	padding-bottom: 20px;
+}
+
+.addTask {
+	border-radius: 5px;
+	height: 30px;
+	width: 400px;
+}
+
+.btn {
+	font-size: 0.7rem;
+	padding: 8px;
+	background-color: black;
+	color: white;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+}
+
+.checkbox {
+	background-color: black;
+	color: white;
+}
+
+.task-label {
+	font-size: 0.8rem;
+}
+
+.todo-form {
+	border: 1px solid black;
+	width: fit-content;
+	padding: 10px;
+	border-radius: 5px;
+	margin: auto;
+}
